@@ -1,0 +1,4 @@
+2021-02-20 23:09:37.7619| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 8 | | Попытка подключения к источнику данных  
+
+2021-02-20 23:09:37.7619| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 8 | | Успешно. Затраченное время (мс): 20  
+

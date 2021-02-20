@@ -1,0 +1,12 @@
+2021-02-20 16:58:49.4598| LogTest.Models.Students.GetStudentById | ERROR | Такого студента нет с id = 5 
+
+2021-02-20 22:57:58.1020| LogTest.Models.Students.GetStudentById | ERROR | Такого студента нет с id = 5 
+
+2021-02-20 23:09:37.7647| LogTest.Models.Students.GetStudentById | ERROR | LogTest.Models.Students | 8 | | Такого студента нет с id = 4  
+
+2021-02-20 23:18:53.2901| LogTest.Models.Students.GetStudentById | ERROR | LogTest.Models.Students | 9 | | Такого студента нет с id = 4  
+
+2021-02-20 23:18:53.6272| LogTest.Models.Students.GetStudentById | ERROR | LogTest.Models.Students | 11 | | Такого студента нет с id = 4  
+
+2021-02-20 23:19:53.4339| LogTest.Models.Students.GetStudentById | ERROR | LogTest.Models.Students | 4 | | Такого студента нет с id = 4  
+

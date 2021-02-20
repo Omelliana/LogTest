@@ -1,0 +1,52 @@
+2021-02-20 16:58:28.1991| LogTest.Controllers.HomeController.GetStudent | INFO | Преподователь запросил студентов c id = 1 
+
+2021-02-20 16:58:28.2335| LogTest.Models.Students.GetStudentById | TRACE | Запрашиваемый id студента: 1 
+
+2021-02-20 16:58:28.2353| LogTest.Models.Students.GetStudentById | TRACE | Попытка подключения к источнику данных 
+
+2021-02-20 16:58:28.2353| LogTest.Models.Students.GetStudentById | TRACE | Успешно. Затраченное время (мс): 20 
+
+2021-02-20 16:58:28.2364| LogTest.Models.Students.GetStudentById | TRACE | Успешная выборка. Стулент с id = 1 
+
+2021-02-20 16:58:49.4556| LogTest.Controllers.HomeController.GetStudent | INFO | Преподователь запросил студентов c id = 5 
+
+2021-02-20 16:58:49.4568| LogTest.Models.Students.GetStudentById | TRACE | Запрашиваемый id студента: 5 
+
+2021-02-20 16:58:49.4579| LogTest.Models.Students.GetStudentById | TRACE | Попытка подключения к источнику данных 
+
+2021-02-20 16:58:49.4586| LogTest.Models.Students.GetStudentById | TRACE | Успешно. Затраченное время (мс): 20 
+
+2021-02-20 23:18:51.3278| LogTest.Controllers.HomeController.GetStudent | INFO | LogTest.Controllers.HomeController | 6 | | Преподователь запросил студентов c id = 2  
+
+2021-02-20 23:18:51.3669| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 6 | | Запрашиваемый id студента: 2  
+
+2021-02-20 23:18:51.3684| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 6 | | Попытка подключения к источнику данных  
+
+2021-02-20 23:18:51.3688| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 6 | | Успешно. Затраченное время (мс): 20  
+
+2021-02-20 23:18:51.3688| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 6 | | Успешная выборка. Стулент с id = 2  
+
+2021-02-20 23:18:53.2840| LogTest.Controllers.HomeController.GetStudent | INFO | LogTest.Controllers.HomeController | 9 | | Преподователь запросил студентов c id = 4  
+
+2021-02-20 23:18:53.2855| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 9 | | Запрашиваемый id студента: 4  
+
+2021-02-20 23:18:53.2859| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 9 | | Попытка подключения к источнику данных  
+
+2021-02-20 23:18:53.2877| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 9 | | Успешно. Затраченное время (мс): 20  
+
+2021-02-20 23:18:53.6248| LogTest.Controllers.HomeController.GetStudent | INFO | LogTest.Controllers.HomeController | 11 | | Преподователь запросил студентов c id = 4  
+
+2021-02-20 23:18:53.6248| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 11 | | Запрашиваемый id студента: 4  
+
+2021-02-20 23:18:53.6265| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 11 | | Попытка подключения к источнику данных  
+
+2021-02-20 23:18:53.6272| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 11 | | Успешно. Затраченное время (мс): 20  
+
+2021-02-20 23:19:53.3898| LogTest.Controllers.HomeController.GetStudent | INFO | LogTest.Controllers.HomeController | 4 | | Преподователь запросил студентов c id = 4  
+
+2021-02-20 23:19:53.4290| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 4 | | Запрашиваемый id студента: 4  
+
+2021-02-20 23:19:53.4308| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 4 | | Попытка подключения к источнику данных  
+
+2021-02-20 23:19:53.4329| LogTest.Models.Students.GetStudentById | TRACE | LogTest.Models.Students | 4 | | Успешно. Затраченное время (мс): 20  
+

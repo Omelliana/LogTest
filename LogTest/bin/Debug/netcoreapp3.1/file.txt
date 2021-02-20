@@ -1,0 +1,8 @@
+2021-02-20 16:09:03.9919|TRACE|LogTest.Models.Students|Запрашиваемый id студента: 2
+2021-02-20 16:09:04.0193|TRACE|LogTest.Models.Students|Попытка подключения к источнику данных
+2021-02-20 16:09:04.0212|TRACE|LogTest.Models.Students|Успешно. Затраченное время (мс): 20
+2021-02-20 16:09:04.0223|TRACE|LogTest.Models.Students|Успешная выборка. Стулент с id = 2
+2021-02-20 16:12:00.1227|TRACE|LogTest.Models.Students|Запрашиваемый id студента: 2
+2021-02-20 16:12:00.1532|TRACE|LogTest.Models.Students|Попытка подключения к источнику данных
+2021-02-20 16:12:00.1540|TRACE|LogTest.Models.Students|Успешно. Затраченное время (мс): 20
+2021-02-20 16:12:00.1550|TRACE|LogTest.Models.Students|Успешная выборка. Стулент с id = 2
